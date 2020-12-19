@@ -1,0 +1,11 @@
+{
+  "login": {
+    "cpf": "12345678901",
+    "name": "Vitor",
+    "apiToken": "ui123gkhj12g4j42g1kg431kg421kjg42hjkjkjhk21hjk424hjkhj412v4ernmvmn412b",
+    "password": "123456"
+  },
+  "extract": {
+    "token": "ui123gkhj12g4j42g1kg431kg421kjg42hjkjkjhk21hjk424hjkhj412v4ernmvmn412b"
+  }
+}

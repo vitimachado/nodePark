@@ -1,0 +1,7 @@
+{
+    "watch": ["src"],
+    "ext": "ts",
+    "exexMap": {
+        "ts": "babel-node src/index.ts --extensions \".ts\""
+    }
+}
